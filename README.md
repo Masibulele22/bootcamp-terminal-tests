@@ -1,2 +1,2 @@
 # Bootcamp-terminal-test
--basic node
+- basic node
